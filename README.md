@@ -73,25 +73,3 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-
-###
-
-
-
-###
-
-
-
-###
-
-
-
-###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
-
-<img src="https://raw.githubusercontent.com/juanDevelops/juanDevelops/output/snake.svg" alt="Snake animation" />
-
-###
