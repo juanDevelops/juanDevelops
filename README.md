@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧑🏻‍💻 I'm a Systems Engineer<br>💬 I am a quick learner, good with teamwork, with problem solving and adaptability skills.<br>🤝 I’m looking for job offers<br>🌐 Currently learning Tailwind CSS and React
+🧑🏻‍💻 I'm a Systems Engineer<br>💬 I am a quick learner, good with teamwork, with problem solving and adaptability skills.<br>🤝 I’m looking for job offers<br>🌐 Currently learning Tailwind CSS and Angular
 
 
 ## 🌐 Socials:
